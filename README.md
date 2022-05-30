@@ -4,9 +4,9 @@ Hi 👋 My name is Akhil Thomas
 Data Enthusiast
 ---------------
 
-I stepped into the world of IT in 2016 after completing my bachelors in Mechanical Engineering. It was a decision taken due to my physical condition because of a motorbike accident. Stared designing websites using HTML, Bootstrap, CSS and worked on the following websites theralogic.info , blossomtreesoftware.com , simiclare.com 
+Following the completion of my degree in mechanical engineering in 2016 I transitioned into the IT industry. A motorbike accident left me in a vulnerable physical state, which led to this decision. I designed websites using HTML, Bootstrap, and CSS for websites, such as theralogic.info, blossomtreesoftware.com, and simiclare.com. 
 
-In 2019 started Software testing and learned more about coding used in application development. Completed a course in python to enrich my knowledge as my company were using Python Django for the Backend. Also, angular for the frontend and PostgreSQL for the database management. 
+In 2019, I began software testing and learned more about coding used in application development. I have taken a Python course to increase my knowledge as the back end of my company's application is developed by Python Django. Also, Angular for the frontend and PostgreSQL for the database management. 
 
 My passion for Data science steamed while studying BIGDATA for decision-making as a part of my Masters. This subject taught me the basics of Data science through the following models. 1. Big Data technologies 2. Data Mining technologies 3. Introduction to SAS 4. ML fundamentals 5. End-to-end ML project (Python) 6. End-to-end ML project (SAS) 7. ML algorithms 8. NLP 9. Time series forecasting Then completed an end to end Data project on UK accident data and proposed future enhancements and applications. 
 

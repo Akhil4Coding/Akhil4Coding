@@ -4,7 +4,7 @@ Hi 👋 My name is Akhil Thomas
 Data Enthusiast
 ---------------
 
-Following the completion of my degree in mechanical engineering in 2016 I transitioned into the IT industry. A motorbike accident left me in a vulnerable physical state, which led to this decision. I designed websites using HTML, Bootstrap, and CSS for websites, such as theralogic.info, blossomtreesoftware.com, and simiclare.com. 
+Following the completion of my degree in mechanical engineering in 2016 I transitioned into the IT industry. A motorbike accident left me in a wheelchair, which led to this decision. I designed websites using HTML, Bootstrap, and CSS for websites, such as theralogic.info, blossomtreesoftware.com, and simiclare.com. 
 
 In 2019, I began software testing and learned more about coding used in application development. I have taken a Python course to increase my knowledge as the back end of my company's application is developed by Python Django. Also, Angular for the frontend and PostgreSQL for the database management. 
 
